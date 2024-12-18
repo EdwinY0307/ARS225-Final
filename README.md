@@ -10,4 +10,4 @@ Conceptual reflection- Throughout this project I changed my final idea multiple 
 
 Art references- Many of the references used were of a dystopian future setting, So films like Blade Runner(1982), games like Cyberpunk 2077(2020), and the Cyberpunk table top(1988) helped me map out the look I was aiming for. 
 
-Photo documentation- 
+Photo documentation- https://docs.google.com/spreadsheets/d/1io1DCV-51J6Z0BYskeKH_rCgwdprVMzP0gPiNxeMRf8/edit?usp=sharing 
