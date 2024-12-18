@@ -1,8 +1,8 @@
 # ARS225-Final
 
-Project idea- I wanted to visualize a future where people live their lives in the virtual world and allows the world around them to turn to ruin. In our modern society it has become ever more common to consume social media to the point that the consumption of social media has effected people's social skills and inability to communicate with one another. and at the same time large companies continue to polute the planet and we are blind to do anything about it.
+Project idea- I wanted to visualize a future where people live their lives in the virtual world and allow the world around them to turn to ruin. In our modern society it has become ever more common to consume social media to the point that the consumption of social media has affected people's social skills and inability to communicate with one another. and at the same time large companies continue to pollute the planet and we are blind to do anything about it.
 
-Process- for my process I created a video of a man living in a fantasy world with a companion, the video slowley reveals that the man is alone and the home he is living in is simular to the tenement homes in late 1880s America, cramped and overcrowded. I generated the images with the colab notebook with the exception of the image of the man (the notebook did not generate results that matched my vison) with Canva. I used audio of laughter from Free sounds.
+Process- for my process I created a video of a man living in a fantasy world with a companion, the video slowly reveals that the man is alone and the home he is living in is similar to the tenement homes in late 1880s America, cramped and overcrowded. I generated the images with the colab notebook with the exception of the image of the man (the notebook did not generate results that matched my vision) with Canva. I used audio of laughter from Free sounds.
 
 Data set- https://docs.google.com/spreadsheets/d/1oOo0FDpdMLdzz6pJbz-qcU0ctL5o9HfIeIUx1rYUVGc/edit?usp=sharing 
 
